@@ -1,0 +1,23 @@
+{
+  "name": "test-babel",
+  "version": "1.0.0",
+  "description": "test babel",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cxytomo/test-babel.git"
+  },
+  "keywords": [
+    "test",
+    "babel"
+  ],
+  "author": "cxytomo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxytomo/test-babel/issues"
+  },
+  "homepage": "https://github.com/cxytomo/test-babel#readme"
+}
